@@ -1,21 +1,18 @@
-# Java-interview-for-china
+# technology-summary-for-china
 
 
-##
-适用于初中级java面试知识树
+## 适用于 Java 初中高级 和大数据初级中高级 技术树
 
 
 `项目xmind为面试知识`
 
-![](https://github.com/PatientLiu/Java-interview-for-china/blob/master/java%E6%8A%80%E6%9C%AF.png?raw=true)
+<img src="https://github.com/SANDUO421/technology-summary-for-china/blob/master/Java/Java%20%E6%8A%80%E6%9C%AFDom%E6%A0%91.png?raw=true" alt="java 技术树" width="304" height="228">
 
 
 
-###
-感谢这套面试知识收集整理者[sdmjhca](https://github.com/sdmjhca)   
+##参考
 
-###
-感谢面试知识导图中的相关知识连接的提供者和作者
+1.参考了，[sdmjhca](https://github.com/sdmjhca)   
 
-###
-Java basic knowleage in action at:https://github.com/sdmjhca/javabasic
+###结束语
+感谢面试知识导图中的相关知识连接的提供者和作者 sdmjhca
